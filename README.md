@@ -22,7 +22,8 @@ DATE:
 
 1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 
-<img width="1280" height="820" alt="image" src="https://github.com/user-attachments/assets/6c84b614-52e4-4620-982c-99d422c7a541" />
+![WhatsApp Image 2025-11-28 at 14 24 59_c853c3bd](https://github.com/user-attachments/assets/7a612cb4-d2e5-4309-8455-cce9e3655c0e)
+
 
 
 ---
@@ -30,8 +31,9 @@ DATE:
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="1912" height="986" alt="image" src="https://github.com/user-attachments/assets/38a92576-edf6-406d-ba59-93f866183587" />
 
-![WhatsApp Image 2025-11-15 at 10 57 20 AM](https://github.com/user-attachments/assets/27e221fd-63ba-4222-9150-67da5d81c647)
+
 
 ---
 
@@ -39,36 +41,49 @@ DATE:
 
 PASTE THE CIRCUIT HERE
 ---
+![WhatsApp Image 2025-11-28 at 14 25 24_d49bd93f](https://github.com/user-attachments/assets/62ad1586-d07d-4241-9c72-447eb04c8de9)
 
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
+<img width="1607" height="981" alt="image" src="https://github.com/user-attachments/assets/6e1de7c3-cfe9-44c5-b58a-fe21b99469c5" />
 
 PASTE THE OUTPUT WAVEFORM HERE
+<img width="1899" height="480" alt="image" src="https://github.com/user-attachments/assets/48a4270d-4e05-4b6a-ae38-c298814915dc" />
+
 ---
 3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
 
 PASTE THE CIRCUIT HERE
 ---
+![WhatsApp Image 2025-11-28 at 14 25 47_1214198e](https://github.com/user-attachments/assets/8d1d5d15-1087-435e-809f-b37d8591c62a)
 
 
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
+<img width="1491" height="982" alt="image" src="https://github.com/user-attachments/assets/38b001ec-eb5a-48fc-92a3-4242a1a9ff18" />
 
 PASTE THE OUTPUT WAVEFORM HERE
+<img width="1908" height="508" alt="image" src="https://github.com/user-attachments/assets/80b88310-ddc4-4179-8bb1-b923d5683753" />
+
 ---
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 
 PASTE THE CIRCUIT HERE
 ---
+<img width="1908" height="508" alt="image" src="https://github.com/user-attachments/assets/636aea21-bad5-4d98-be45-f612d6726986" />
 
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-28 at 14 44 31_12433b42](https://github.com/user-attachments/assets/caae7f2e-7c4b-402d-aaed-6d75efd4b02a)
+
 
 PASTE THE OUTPUT WAVEFORM HERE
+![WhatsApp Image 2025-11-28 at 14 44 31_f1bb1921](https://github.com/user-attachments/assets/55c8448e-5d3c-496f-b844-8b19416fc13b)
+
 ---
 
 ## RESULT
-Thus, the Inverting,Non-Inverting, Differential, and Instrumentation Amplifiers were designed and their performance successfully tested using LT-SPICE.
----
+![WhatsApp Image 2025-11-28 at 14 25 57_64f2e65b](https://github.com/user-attachments/assets/01d27b3f-41d8-4f07-ba79-cd676e6d9be7)
+
