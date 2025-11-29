@@ -19,7 +19,6 @@ DATE:
 7.Click on the run option ->simulationwindow opens->place the probe ->output graph is obtained
 
 ---
-
 1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 
 ![WhatsApp Image 2025-11-28 at 14 24 59_c853c3bd](https://github.com/user-attachments/assets/7a612cb4-d2e5-4309-8455-cce9e3655c0e)
