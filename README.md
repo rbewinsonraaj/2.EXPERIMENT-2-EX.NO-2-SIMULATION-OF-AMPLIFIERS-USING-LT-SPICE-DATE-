@@ -71,7 +71,9 @@ PASTE THE OUTPUT WAVEFORM HERE
 
 PASTE THE CIRCUIT HERE
 ---
-<img width="1908" height="508" alt="image" src="https://github.com/user-attachments/assets/636aea21-bad5-4d98-be45-f612d6726986" />
+
+<img width="739" height="898" alt="image" src="https://github.com/user-attachments/assets/ac06a409-b821-415a-8fb9-ae96e3e7665c" />
+
 
 
 
