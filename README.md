@@ -11,12 +11,19 @@ DATE:
 ## PROCEDURE:
 
 1.Double click on LT- SPICE  icon.
+
 2.New schematic window open.
+
 3.Pick and paste the required component from the library and draw the circuit diagram .
+
 4.Complete the connection.
+
 5.Save the file by giving file name.
+
 6.Click on the run option ->click advanced open ->select Ac analysis->enter the amplitude-> time delay stop time value.
+
 7.Click on the run option ->simulationwindow opens->place the probe ->output graph is obtained
+
 
 ---
 1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
@@ -38,7 +45,7 @@ DATE:
 
 2.## CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
 
-PASTE THE CIRCUIT HERE
+
 ---
 ![WhatsApp Image 2025-11-28 at 14 25 24_d49bd93f](https://github.com/user-attachments/assets/62ad1586-d07d-4241-9c72-447eb04c8de9)
 
@@ -48,14 +55,15 @@ PASTE THE CIRCUIT HERE
 <img width="646" height="404" alt="image" src="https://github.com/user-attachments/assets/ea20cdc8-9617-406f-9665-cb8c66419750" />
 
 
-PASTE THE OUTPUT WAVEFORM HERE
-<img width="1907" height="442" alt="image" src="https://github.com/user-attachments/assets/88ec5b1d-63b4-4696-a26d-8639215cb682" />
+
+<img width="1897" height="477" alt="image" src="https://github.com/user-attachments/assets/ed7fc21e-c118-4a61-a904-426618352918" />
+
 
 
 ---
 3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
 
-PASTE THE CIRCUIT HERE
+
 ---
 ![WhatsApp Image 2025-11-28 at 14 25 47_1214198e](https://github.com/user-attachments/assets/8d1d5d15-1087-435e-809f-b37d8591c62a)
 
@@ -64,13 +72,14 @@ PASTE THE CIRCUIT HERE
 ## OUTPUT WAVEFORM AND DISCUSSION 
 <img width="1491" height="982" alt="image" src="https://github.com/user-attachments/assets/38b001ec-eb5a-48fc-92a3-4242a1a9ff18" />
 
-PASTE THE OUTPUT WAVEFORM HERE
-<img width="1908" height="508" alt="image" src="https://github.com/user-attachments/assets/80b88310-ddc4-4179-8bb1-b923d5683753" />
+
+<<img width="1903" height="488" alt="image" src="https://github.com/user-attachments/assets/358e36a4-d26b-4363-9a87-7497ec8d55bc" />
+
 
 ---
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 
-PASTE THE CIRCUIT HERE
+
 ---
 
 <img width="739" height="898" alt="image" src="https://github.com/user-attachments/assets/ac06a409-b821-415a-8fb9-ae96e3e7665c" />
@@ -82,8 +91,8 @@ PASTE THE CIRCUIT HERE
 ![WhatsApp Image 2025-11-28 at 14 44 31_12433b42](https://github.com/user-attachments/assets/caae7f2e-7c4b-402d-aaed-6d75efd4b02a)
 
 
-PASTE THE OUTPUT WAVEFORM HERE
-![WhatsApp Image 2025-11-28 at 14 44 31_f1bb1921](https://github.com/user-attachments/assets/55c8448e-5d3c-496f-b844-8b19416fc13b)
+<img width="1907" height="521" alt="image" src="https://github.com/user-attachments/assets/e9f8ab3f-d02e-4f55-8b09-96f299cc09d6" />
+
 
 ---
 
