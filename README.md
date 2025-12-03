@@ -45,10 +45,12 @@ PASTE THE CIRCUIT HERE
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
-<img width="1607" height="981" alt="image" src="https://github.com/user-attachments/assets/6e1de7c3-cfe9-44c5-b58a-fe21b99469c5" />
+<img width="646" height="404" alt="image" src="https://github.com/user-attachments/assets/ea20cdc8-9617-406f-9665-cb8c66419750" />
+
 
 PASTE THE OUTPUT WAVEFORM HERE
-<img width="1899" height="480" alt="image" src="https://github.com/user-attachments/assets/48a4270d-4e05-4b6a-ae38-c298814915dc" />
+<img width="1907" height="442" alt="image" src="https://github.com/user-attachments/assets/88ec5b1d-63b4-4696-a26d-8639215cb682" />
+
 
 ---
 3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
